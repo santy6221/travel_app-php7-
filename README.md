@@ -90,3 +90,12 @@ php artisan serve
  - Codigo y nombre de la moneda a convertir
  - Tasa de cambio
 
+## Google drive con entregables
+El siguiente link contiene los entregables del poryecto, en los cuales se incluye
+- Coleccion de postman exportada en json
+- Parte 1 (Video expicativo de la funcionalidad de la solución)
+- Parte 2 (Video explicativo de la estructura del codigo)
+- sql_db.sql (Script SQL para creación de la db e inserción de datos)
+- Diagrama de base de datos en workbench (pdf y mwb)
+
+## https://drive.google.com/drive/folders/1kl-iC2ZsE21UocFOHz0KLzfiqBkAiZML?usp=drive_link

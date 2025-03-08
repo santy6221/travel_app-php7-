@@ -21,6 +21,10 @@ class WeatherService {
             'units' => 'metric'
         ]);
 
+        if($response->failed()) {
+            throw new \Exception('Error al obtener respuesta del clima' . $response->body());
+        }
+
         return $response->json();
     }
 }
